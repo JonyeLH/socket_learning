@@ -1,0 +1,6 @@
+﻿  input and output.cpp
+c:\users\12185\desktop\网络编程\服务器\服务器\input and output.cpp(84): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\12185\desktop\网络编程\服务器\服务器\input and output.cpp(96): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\12185\desktop\网络编程\服务器\服务器\input and output.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+  服务器.vcxproj -> C:\Users\12185\Desktop\网络编程\服务器\Debug\服务器.exe
+  服务器.vcxproj -> C:\Users\12185\Desktop\网络编程\服务器\Debug\服务器.pdb (Full PDB)

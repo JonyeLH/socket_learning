@@ -1,0 +1,5 @@
+﻿  Input and output.cpp
+c:\users\12185\desktop\网络编程\socket编程\服务器\input and output.cpp(75): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+c:\users\12185\desktop\网络编程\socket编程\服务器\input and output.cpp(91): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  socket编程.vcxproj -> C:\Users\12185\Desktop\网络编程\socket编程\x64\Debug\socket编程.exe
+  socket编程.vcxproj -> C:\Users\12185\Desktop\网络编程\socket编程\x64\Debug\socket编程.pdb (Full PDB)
